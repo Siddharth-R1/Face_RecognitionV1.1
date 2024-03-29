@@ -15,10 +15,14 @@ This Python project implements a face recognition system using various libraries
 - face_recognition
 
 ## Setup
-1. Ensure Python and required libraries are installed.
+1. Ensure Python 3.x is installed. If not, download and install it from (https://www.python.org/downloads/).
 2. Clone the repository.
-3. Run the main script.
+3. Navigate to the project directory.
 
+To install the required packages, download the (requirements.txt) file and run the following command in your terminal or command prompt:
+```bash
+pip install -r requirements.txt
+```
 ## Usage
 1. Click on "Add Face" to add a face to the database.
 2. Follow the prompts to enter your name and capture images.
